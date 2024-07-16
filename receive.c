@@ -31,3 +31,10 @@ int main() {
 	printf("Hello, World!\n");
 	return 0;
 }
+
+# Early bar human.
+#include <stdio.h>
+int main() {
+	printf("Hello, World!\n");
+	return 0;
+}

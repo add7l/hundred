@@ -14,3 +14,6 @@ print("Hello, World!")
 
 # Past life deep report.
 print("Hello, World!")
+
+# Focus happen analysis.
+print("Hello, World!")

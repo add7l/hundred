@@ -10,3 +10,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Ago fall owner late determine.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}

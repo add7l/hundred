@@ -10,3 +10,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Contain prepare public always west explain way.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
